@@ -5,7 +5,7 @@
 ---
 
 ## Observações 
-<p> No index.html as tags principais estão comentadas, para intender o que cada uma delas faz. o <b>SIMBOLO < !-- EXEMPLO COMENTARIO-->  é onde você encontrara essas informações.</p>
+<p> No index.html as tags principais estão comentadas, para intender o que cada uma delas faz. o <b>SIMBOLO < !-- EXEMPLO COMENTARIO--> </b> é onde você encontrara essas informações.</p>
 
 
 
