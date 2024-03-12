@@ -1,0 +1,2 @@
+### 1 - Exercicio
+<p> Crie um site com apenas as Tags HTML basicas que você aprendeu em sala de aula. Neste site Liste produtos de um supermercado separado por setor, no minimo 5 Produtos por departamento, e adicione foto para cada um deles.</p>
