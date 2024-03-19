@@ -1,0 +1,9 @@
+ESTUDANDO SOBRE TABELA
+
+<table> -  Elemento Principal
+<tr> - Linha 
+<th> - Celula de titulo
+<td> - Celula
+border - Borda da tabela 
+colspan - junção de células ou mescla colunas Horizontalmente " ---- "
+rowspan - junção de linhas, ou seja mescla linhas verticalmente " | "
