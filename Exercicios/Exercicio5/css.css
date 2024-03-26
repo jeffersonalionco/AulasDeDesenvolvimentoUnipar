@@ -1,0 +1,29 @@
+th{
+    background-color: #0d5188;
+    color: #fff;
+    font-weight: bold;
+}
+table {
+    width: 600px;
+    font-family: Arial;
+    font-size: 12px;
+}
+.titulo{
+    background-color: #66c5e3;
+    font-weight: bold;
+}
+.posicao{
+    background-color: #c6cbd1;
+    text-align: center;
+    
+}
+.informacoes{
+    width: 15%;
+    text-align: center;
+    background-color: #c7e7f3;
+}
+.informacoesCidade{
+    background-color: #c7e7f3;
+    color: #0d5188;
+    font-weight: bold;
+}

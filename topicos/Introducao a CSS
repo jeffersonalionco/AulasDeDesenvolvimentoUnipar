@@ -1,0 +1,12 @@
+25-03/2024
+
+O que é css, é a sigla para o termo Cascading Style Sheets. ou seja Folha de estilo.
+
+Facil de aprender e entender.
+
+
+Anatomi do comando css
+
+p {
+    o que estiver aqui dentro será a formatação
+}
