@@ -27,3 +27,99 @@ table {
     color: #0d5188;
     font-weight: bold;
 }
+
+
+table{
+    border: 1px solid #dddddd;
+    font-family: Arial;
+}
+.tabela2titulos{
+    font-family: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+.colunaC{
+    border-right: 1px solid #dddddd;
+    background-color: #ccc3c3;
+    border-left: 1px solid #dddddd;
+}
+.time{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+}
+td{
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    
+}
+.colunaP{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.legendas{
+    font-size: 10px;
+    color: #8f8f8f;
+    text-align: left;
+}
+.csiglas{
+    font-size: 10px;
+    color: #555555;
+    font-weight: bold;
+    text-align: left;
+}
+.taca{
+    color: #003366;
+    font-weight: bold;
+    font-size: 18px;
+}
+.libertadores{
+    color: #1398be;
+    font-weight: bold;
+    font-size: 18px;
+}
+.sulAmericana{
+    color: #de9800;
+    font-weight: bold;
+    font-size: 18px;
+}
+.semcor{
+    color: #cccccc;
+    font-weight: bold;
+    font-size: 18px;
+}
+.rebaixados{
+    color: #c91b04;
+    font-weight: bold;
+    font-size: 18px;
+}
+table.exercicio2 td {
+    width: 15px;
+}
+
+.quadrado1{
+    width: 10px;
+    height: 10px;
+    background-color: #003366;
+}
+.quadrado2{
+    width: 10px;
+    height: 10px;
+    background-color: #1398be;
+}
+.quadrado3{
+    width: 10px;
+    height: 10px;
+    background-color: #de9800;
+}
+.quadrado4{
+    width: 10px;
+    height: 10px;
+    background-color: #c91b04;
+}
