@@ -10,6 +10,17 @@ let calcular6 = document.querySelector("#calcular6")
 let calcular7 = document.querySelector("#calcular7")
 let calcular8 = document.querySelector("#calcular8")
 
+function questao1(){
+    let q11numero = document.querySelector("#q11numero")
+    let q12numero = document.querySelector("#q12numero")
+    let msg1a = document.querySelector("#msg1a")
+  
+    let troco = Number(q11numero.value) - Number(q12numero.value)
+
+    msg1a.textContent = `Seu troco é: R$ ${troco}`
+
+}
+
 function calculo() {
     let kiloo = Number(kilo.value)
     let quantidade = Number(ipQuantidade.value)
@@ -137,3 +148,4 @@ calcular5.onclick = function () { questao5() }
 calcular6.onclick = function () { questao6() }
 calcular7.onclick = function () { questao7() }
 calcular8.onclick = function () { questao8() }
+calcular9.onclick = function () { questao1() }
